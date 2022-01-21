@@ -1,0 +1,1 @@
+# VM_Windows_ARM_Template_to_Keyvault
